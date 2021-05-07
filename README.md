@@ -8,6 +8,8 @@ The `master` branch contains the current stable version.
 
 Please read [wiki][wiki-url].
 
+Before deploying your own copy, get your own API token from Binance Smart Chain and update the $apikey variable accordingly.
+
 
 ### Stay Tuned
 [Follow us][twitter-url] on Twitter to receive updates.
